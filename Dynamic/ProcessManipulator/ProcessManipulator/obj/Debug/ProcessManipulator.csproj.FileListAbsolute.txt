@@ -1,0 +1,6 @@
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+C:\Users\Iam\Documents\GitHub\StudyC\Dynamic\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb
