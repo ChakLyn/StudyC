@@ -1,0 +1,6 @@
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\bin\Debug\AppDomain.exe.config
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\bin\Debug\AppDomain.exe
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\bin\Debug\AppDomain.pdb
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\obj\Debug\AppDomain.csprojResolveAssemblyReference.cache
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\obj\Debug\AppDomain.exe
+C:\Users\Iam\Documents\GitHub\StudyC\AppDomain\AppDomain\obj\Debug\AppDomain.pdb
